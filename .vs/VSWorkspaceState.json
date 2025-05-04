@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\dist",
-    "\\src"
+    "\\src",
+    "\\src\\html",
+    "\\src\\scripts",
+    "\\src\\styles"
   ],
-  "SelectedNode": "\\dist\\index.html",
+  "SelectedNode": "\\src\\styles\\styles.css",
   "PreviewInSolutionExplorer": false
 }
